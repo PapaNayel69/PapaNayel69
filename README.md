@@ -1,7 +1,7 @@
 # 👋 Yo, I'm PapaNayel
 
 💻 Passionate developer who loves building cool stuff with the **.NET ecosystem**.  
-🔥 Main stack? Definitely **C#**, **C++**, and everything related to backend & modern web development.
+🔥 Main stack? Definitely **C#**, **C++**, and modern backend development.
 
 ---
 
@@ -20,8 +20,11 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -42,4 +45,7 @@
 ---
 
 ## 🌍 Connect With Me
+
+![Discord](https://img.shields.io/badge/Discord-papanayel-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 > “Code. Sleep. Repeat.” ☕
